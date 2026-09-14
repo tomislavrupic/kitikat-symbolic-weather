@@ -1,0 +1,9 @@
+{
+  "model": "KittenML/kitten-tts-nano-0.8-fp32",
+  "revision": "7a1db645b1f3ab9420761d87428e042b9cec3f26",
+  "voice": "Kiki",
+  "sample_rate": 24000,
+  "format": "MP3 64kbps",
+  "render": "Local developer CPU; original project captions only",
+  "kitten_code_revision": "be5758500b731b8fc674acc62ea480d3022b7ebe"
+}
