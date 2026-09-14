@@ -35,3 +35,12 @@ Cuts include short fades, loudness normalization, and conversion to 48 kHz/16-bi
 `a_jebote.wav`: locally synthesized with the installed macOS Croatian **Lana** voice, speaking “A jebote…”. This is a synthetic Croatian stand-in, **not an authentic Dalmatian performance**. Replace it with an original approved recording for the intended delivery. The app supplies 1.4 seconds of silence before playback; that pause is not baked into the file.
 
 No television-series audio is used. All runtime playback is local.
+
+## Coherence applause — CC0
+
+Four applause tiers use two independently verified CC0 recordings from Freesound (checked 2026-09-14):
+
+- **Audience Clapping.wav**, Zeraora: https://freesound.org/people/Zeraora/sounds/429422/ — preview https://cdn.freesound.org/previews/429/429422_7347459-hq.mp3 . Polite tail, warm clapping and cheering excerpts.
+- **Applause, enthusiastic, with cheering and some foot stamping 2**, peridactyloptrix: https://freesound.org/people/peridactyloptrix/sounds/196089/ — preview https://cdn.freesound.org/previews/196/196089_2737063-hq.mp3 . Strongest ovation tier.
+
+License: https://creativecommons.org/publicdomain/zero/1.0/ . WAVs are edited from lossy public previews, not the original lossless recordings. `applause-manifest.json` records cuts, loudness targets and checksums; reproduce with `scripts/cut-applause.py`. “Standing ovation” is the intensity-tier name, not a verified claim about the audience's posture. No Storyblocks preview audio is distributed.
