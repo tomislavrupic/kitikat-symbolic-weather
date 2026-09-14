@@ -1,0 +1,42 @@
+{
+  "mode": "built-in image_gen",
+  "reference": "certified-nonsense.png",
+  "prompts": [
+    {
+      "file": "doomer-certified.png",
+      "label": "DOOMER CERTIFIED™",
+      "prompt": "Use case: stylized-concept. Create ONE premium die-cut PNG overlay sticker on a genuinely transparent alpha background, not checkerboard. Match the provided KitiKat reference's detailed vintage screenprint/engraved fur, black ink, cream die-cut outline, saturated cyan magenta golden yellow, weathered print textures and chunky condensed uppercase lettering. Cold War Yugoslav futurist cyber-institutional satire. Keep complete silhouette fully inside canvas with generous transparent margin. No mockup, no scenery beyond sticker silhouette, no extra slogans, no watermark. Reference is style/character reference only, create a distinct composition. Exact main text must be highly legible and spelled verbatim: \"DOOMER CERTIFIED™\". A round civil-defense certification seal: black KitiKat in tropical cyan/pink sunglasses, tiny alarm siren above its head, crimson warning rays. Deadpan panic authority."
+    },
+    {
+      "file": "haops-inspected.png",
+      "label": "HAOPS INSPECTED",
+      "prompt": "Use case: stylized-concept. Create ONE premium die-cut PNG overlay sticker on a genuinely transparent alpha background, not checkerboard. Match the provided KitiKat reference's detailed vintage screenprint/engraved fur, black ink, cream die-cut outline, saturated cyan magenta golden yellow, weathered print textures and chunky condensed uppercase lettering. Cold War Yugoslav futurist cyber-institutional satire. Keep complete silhouette fully inside canvas with generous transparent margin. No mockup, no scenery beyond sticker silhouette, no extra slogans, no watermark. Reference is style/character reference only, create a distinct composition. Exact main text must be highly legible and spelled verbatim: \"HAOPS INSPECTED\". An official inspection badge: black KitiKat in tropical sunglasses examining a rubber stamp that is stamping another rubber stamp, yellow institutional seal. Clear simple silhouette."
+    },
+    {
+      "file": "rare-w.png",
+      "label": "RARE W",
+      "prompt": "Use case: stylized-concept. Create ONE premium die-cut PNG overlay sticker on a genuinely transparent alpha background, not checkerboard. Match the provided KitiKat reference's detailed vintage screenprint/engraved fur, black ink, cream die-cut outline, saturated cyan magenta golden yellow, weathered print textures and chunky condensed uppercase lettering. Cold War Yugoslav futurist cyber-institutional satire. Keep complete silhouette fully inside canvas with generous transparent margin. No mockup, no scenery beyond sticker silhouette, no extra slogans, no watermark. Reference is style/character reference only, create a distinct composition. Exact main text must be highly legible and spelled verbatim: \"RARE W\". A triumphant compact trophy-shaped sticker: black KitiKat in tropical sunglasses lifting a small golden W trophy, green laurel leaves, joyful but deadpan."
+    },
+    {
+      "file": "good-shit.png",
+      "label": "GOOD SHIT™",
+      "prompt": "Use case: stylized-concept. Create ONE premium die-cut PNG overlay sticker on a genuinely transparent alpha background, not checkerboard. Match the provided KitiKat reference's detailed vintage screenprint/engraved fur, black ink, cream die-cut outline, saturated cyan magenta golden yellow, weathered print textures and chunky condensed uppercase lettering. Cold War Yugoslav futurist cyber-institutional satire. Keep complete silhouette fully inside canvas with generous transparent margin. No mockup, no scenery beyond sticker silhouette, no extra slogans, no watermark. Reference is style/character reference only, create a distinct composition. Exact main text must be highly legible and spelled verbatim: \"GOOD SHIT™\". A confident black KitiKat in tropical sunglasses giving a thumbs-up paw, electric green starburst and gold ribbon. Celebratory constructive energy, no literal poop."
+    },
+    {
+      "file": "new-wave-same-panic.png",
+      "label": "NEW WAVE. SAME PANIC.",
+      "prompt": "Use case: stylized-concept. Create ONE premium die-cut PNG overlay sticker on a genuinely transparent alpha background, not checkerboard. Match the provided KitiKat reference's detailed vintage screenprint/engraved fur, black ink, cream die-cut outline, saturated cyan magenta golden yellow, weathered print textures and chunky condensed uppercase lettering. Cold War Yugoslav futurist cyber-institutional satire. Keep complete silhouette fully inside canvas with generous transparent margin. No mockup, no scenery beyond sticker silhouette, no extra slogans, no watermark. Reference is style/character reference only, create a distinct composition. Exact main text must be highly legible and spelled verbatim: \"NEW WAVE. SAME PANIC.\". Black KitiKat surfing a cyan curling wave while an absurd tiny warning siren rides its head, magenta sun and cream bold slogan banners. Surf-punk meets civil defense."
+    },
+    {
+      "file": "structural-sanity-detected.png",
+      "label": "STRUCTURAL SANITY DETECTED",
+      "prompt": "Use case: stylized-concept. Create ONE premium die-cut PNG overlay sticker on a genuinely transparent alpha background, not checkerboard. Match the provided KitiKat reference's detailed vintage screenprint/engraved fur, black ink, cream die-cut outline, saturated cyan magenta golden yellow, weathered print textures and chunky condensed uppercase lettering. Cold War Yugoslav futurist cyber-institutional satire. Keep complete silhouette fully inside canvas with generous transparent margin. No mockup, no scenery beyond sticker silhouette, no extra slogans, no watermark. Reference is style/character reference only, create a distinct composition. Exact main text must be highly legible and spelled verbatim: \"STRUCTURAL SANITY DETECTED\". A prestigious green and gold sanity certification medallion: black KitiKat in tropical sunglasses calmly holding a spirit level perfectly horizontal, laurel and small stars. Official seal celebrating a functioning human system."
+    },
+    {
+      "file": "please-stop-refreshing-the-feed.png",
+      "label": "PLEASE STOP REFRESHING THE FEED",
+      "prompt": "Use case: stylized-concept. Create ONE premium die-cut PNG overlay sticker on a genuinely transparent alpha background, not checkerboard. Match the provided KitiKat reference's detailed vintage screenprint/engraved fur, black ink, cream die-cut outline, saturated cyan magenta golden yellow, weathered print textures and chunky condensed uppercase lettering. Cold War Yugoslav futurist cyber-institutional satire. Keep complete silhouette fully inside canvas with generous transparent margin. No mockup, no scenery beyond sticker silhouette, no extra slogans, no watermark. Reference is style/character reference only, create a distinct composition. Exact main text must be highly legible and spelled verbatim: \"PLEASE STOP REFRESHING THE FEED\". Exasperated black KitiKat in tropical sunglasses pressing a giant stop button beside a tiny phone with a circular refresh arrow. Chunky pink/cyan warning placard with the full slogan in three beautifully legible lines."
+    }
+  ],
+  "note": "The refresh sticker received an additional background-extraction pass to replace a baked checkerboard with true alpha."
+}
