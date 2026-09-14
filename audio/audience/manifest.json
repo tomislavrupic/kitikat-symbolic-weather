@@ -1,0 +1,69 @@
+{
+  "source": "KITKAT_2026-09-14_08-50-34.mp4",
+  "processing": "48kHz stereo PCM16; short edge fades; normalized -21 LUFS, -2dBTP",
+  "clips": [
+    {
+      "file": "audience-01.wav",
+      "source_start": 2.7,
+      "source_end": 9,
+      "duration": 6.3,
+      "sha256": "c57956e1192e2e87528a4e110b863396363be5b915b01f834f2a2f94a4f5801e"
+    },
+    {
+      "file": "audience-02.wav",
+      "source_start": 10.15,
+      "source_end": 12.75,
+      "duration": 2.6,
+      "sha256": "c5079f2cd9f532e1457cb7b7c0f776f32cc820cf208f5085d3d1004a7fa8f8b8"
+    },
+    {
+      "file": "audience-03.wav",
+      "source_start": 13.33,
+      "source_end": 16.8,
+      "duration": 3.47,
+      "sha256": "8608fea9157a5bdd1f8cca8b752b40ab2316f9eea9c3e1fa6059baa5a4fb56aa"
+    },
+    {
+      "file": "audience-04.wav",
+      "source_start": 17.75,
+      "source_end": 20.45,
+      "duration": 2.7,
+      "sha256": "b220148ec880ee5e76e0a78f65fc02e3b80f05945a683bd78043acd4c079bf03"
+    },
+    {
+      "file": "audience-05.wav",
+      "source_start": 21.68,
+      "source_end": 25.65,
+      "duration": 3.97,
+      "sha256": "ca7a3c43a1531e9531c576212c13e549ae5435592b2787e6433bc58876441e94"
+    },
+    {
+      "file": "audience-06.wav",
+      "source_start": 26.55,
+      "source_end": 30.4,
+      "duration": 3.85,
+      "sha256": "49300bbd9436ae764f3aff6d1677edf6f41163c5081e30819f7f2cab9de8a943"
+    },
+    {
+      "file": "audience-07.wav",
+      "source_start": 32.5,
+      "source_end": 36.85,
+      "duration": 4.35,
+      "sha256": "60a98db3c7ff650f6e82ae5fab38dbe18c720db8e81209bcbfe5e1a3003c8692"
+    },
+    {
+      "file": "audience-08.wav",
+      "source_start": 38.14,
+      "source_end": 41.55,
+      "duration": 3.41,
+      "sha256": "2b8a3f7d7d8039eb9ac3ae108ab0cb7bac27e905c8197681a8f5af983d155c10"
+    },
+    {
+      "file": "audience-09.wav",
+      "source_start": 42.87,
+      "source_end": 45,
+      "duration": 2.13,
+      "sha256": "b836f7ce547b6f7971e2cbcc8290f97193de9feda14ffb5bc45ff965b257a043"
+    }
+  ]
+}

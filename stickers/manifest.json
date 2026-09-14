@@ -1,0 +1,34 @@
+[
+  {
+    "file": "certified-nonsense.png",
+    "width": 1254,
+    "height": 1254,
+    "hasAlpha": true,
+    "transparentPixels": 417327,
+    "antialiasedPixels": 1154463
+  },
+  {
+    "file": "kitikat-mirror.png",
+    "width": 1254,
+    "height": 1254,
+    "hasAlpha": true,
+    "transparentPixels": 744684,
+    "antialiasedPixels": 827302
+  },
+  {
+    "file": "slow-down-faster.png",
+    "width": 1254,
+    "height": 1254,
+    "hasAlpha": true,
+    "transparentPixels": 579915,
+    "antialiasedPixels": 991750
+  },
+  {
+    "file": "structural-absurdity.png",
+    "width": 1254,
+    "height": 1254,
+    "hasAlpha": true,
+    "transparentPixels": 461216,
+    "antialiasedPixels": 1110863
+  }
+]

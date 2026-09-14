@@ -1,0 +1,21 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "name": "kitikat-mirror",
+      "prompt": "Create ONE finished die-cut PNG sticker for the BOOMER & DOOMER DETECTOR overlay. TRUE TRANSPARENT BACKGROUND with actual alpha, not a white backdrop or a drawn checkerboard. Square 1024px, isolated centered subject with generous transparent margin; every edge fully inside canvas. Subject: charismatic black KitiKat cat in mirrored hot-pink and cyan sunglasses, amused deadpan expression, white laboratory coat, holding a tiny coffee mug and a clipboard. Waist-up character, bold clean silhouette. Retro surf-rock album art meets satirical 1960s pulp science illustration, screen-print ink texture inside the artwork, cream die-cut border, rich near-black, electric cyan, hot pink, sunset orange and yellow. Expressive hand-painted illustration, strong readable shapes suitable at 200px, not photographic, not corporate flat-vector. A small curved banner beneath the cat reads exactly \"IT'S JUST A MIRROR.\" No other text. No background scene, no rectangular panel, no watermark, no extra stickers. Transparent outside the cream silhouette border. This is a reusable overlay asset, not a sticker sheet or mockup."
+    },
+    {
+      "name": "slow-down-faster",
+      "prompt": "Create ONE finished die-cut overlay sticker PNG with TRUE TRANSPARENT alpha background. Isolated entire silhouette inside canvas with margin, no scene or rectangular background, no fake checkerboard. Retro surf-rock psychedelic pulp-science illustration with crisp expressive ink shapes and worn screen-print texture INSIDE the art. Cream die-cut outline, near-black shadows, hot pink, cyan, orange-yellow. Subject: a huge shiny red industrial pushbutton on a battered small metal control pedestal, comic electric cyan lightning bolts and hot-pink speed streaks surrounding it. The button reads exactly \"SLOW DOWN\" in chunky cream lettering. Attached below it a yellow ribbon reads exactly \"FASTER.\" Bold readable punchline, absurd institutional comedy. Match a satirical KitiKat scientific instrument universe. No cat required, no other words or extra stickers. Actual transparency everywhere outside sticker edge. Square high-resolution composition."
+    },
+    {
+      "name": "structural-absurdity",
+      "prompt": "Create ONE finished die-cut overlay PNG sticker, actual transparent alpha background, no white background, no checkerboard illustration. Subject: retro comic-book warning badge, explosive jagged starburst with a small industrial red warning beacon at its top, bold lettering that reads exactly on three lines \"STRUCTURAL\" \"ABSURDITY\" \"DETECTED\". Huge legible condensed slightly italic pulp lettering, cream and yellow letters with deep black outlines, hot-pink and cyan offsets. The composition is a chunky irregular cutout, complete within frame with margin, cream die-cut outer border. Satirical retro surf-rock album art, distressed screen-print ink textures contained inside artwork, orange sunset highlights, near-black outlines. Looks like a warning label issued by a ridiculous science laboratory. ONE sticker, no scene, no extra text, no rectangular canvas background, no watermark. High-resolution square."
+    },
+    {
+      "name": "certified-nonsense",
+      "prompt": "Create ONE circular die-cut rubber-stamp-style badge sticker PNG on TRUE transparent alpha background. Full silhouette inside frame with generous margin. A cheeky black cat head in mirrored cyan and pink sunglasses at center, surrounded by a distressed cream circular institutional seal. Seal text reads exactly \"CERTIFIED NONSENSE\" across the upper and lower arcs in strong readable black condensed type. Two small cyan stars and hot-pink lightning bolts in seal. A small yellow ribbon beneath reads exactly \"KitiKat\". Retro surf-rock psychedelic pulp illustration, black ink engraving with controlled worn-print texture inside sticker only. Thick cream die-cut border, hot pink, electric cyan, warm yellow, deep black. Funny official authority theater, polished bold silhouette usable as a video/browser overlay at small sizes. No scene, no backdrop, no rectangular plaque, no fake checkerboard, no extra stickers or words."
+    }
+  ]
+}
