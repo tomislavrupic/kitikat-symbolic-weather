@@ -1,0 +1,34 @@
+[
+  {
+    "file": "applause_small.wav",
+    "source": "audience-clapping.mp3",
+    "start": 6.1,
+    "duration": 1.8,
+    "lufs": -25,
+    "sha256": "0a5890730d93c479baaf94293869d0da9ec7c3810410be60b91d58355ccf4b85"
+  },
+  {
+    "file": "applause_warm.wav",
+    "source": "audience-clapping.mp3",
+    "start": 3.7,
+    "duration": 3.2,
+    "lufs": -22,
+    "sha256": "6d24e1ff9b8b660c71c597afc7c5c3ed66937b5a1ad33534b112075e2329cdc8"
+  },
+  {
+    "file": "applause_cheer.wav",
+    "source": "audience-clapping.mp3",
+    "start": 0.2,
+    "duration": 4.8,
+    "lufs": -20,
+    "sha256": "4209256a5687eccda5730bcb130f9cccabc1cdbb35bb4322f1e6f7d75e0cfea1"
+  },
+  {
+    "file": "applause_ovation.wav",
+    "source": "enthusiastic.mp3",
+    "start": 3,
+    "duration": 7,
+    "lufs": -19,
+    "sha256": "45ff81064a98886fab07cffbd5a9fe4a1a9e733264af32005ae144a9532a5213"
+  }
+]
